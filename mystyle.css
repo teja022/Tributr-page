@@ -1,0 +1,69 @@
+#image{
+    width: 100%;
+    height: auto;
+    height:auto;
+    margin:10px auto;
+    margin-right:9px;
+    display:block;
+}
+body {
+       background: linear-gradient(45deg, #f11206ca, #0d1451);
+      margin: 18%;
+        }
+ 
+        /* Styling the Title and giving
+        shadow to the title */
+#title {
+            text-align: center;
+            text-shadow: 5px 5px 10px white;
+            font-size: 8vh;
+        }
+ 
+        /* Setting width and display
+        type of image */
+.img-div {
+            display: inline-block;
+            width: 100%;
+        }
+ 
+        /* Setting font color and font
+        size of the image-caption */
+#img-caption {
+            font-size: 17px;
+            font-family: Gill Sans;
+            color: black;
+        }
+ 
+        /* Styling the content of the page like-
+        padding, font-size, font color etc.*/#tribute-info {
+            background-color: rgb(46, 139, 87, 0.25);
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+            font-family: Georgia;
+            padding: 23px 23px;
+            margin: 1px;
+            margin-top: 40px;
+            color:black;
+            font-weight:540;
+           
+          
+            }
+ 
+        /* Styling the title of the content */h1.title-APJ {
+            margin-bottom: 40px;
+            font-size: 35px;
+            color: white;
+            text-align: center;
+            text-shadow: 5px 5px 10px black;
+        }
+ 
+        /* Styling the link provided at the end */
+#tribute-link {
+            text-decoration: none;
+            color: black;
+        }
+.virat{
+
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+
+}
